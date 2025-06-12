@@ -23,10 +23,10 @@
 
 ## Telas do projeto
 
-![login](https://github.com/user-attachments/assets/e9432bff-2287-4777-b578-b57f398d5cdf)
-![dashboard](https://github.com/user-attachments/assets/e1b8af1f-53a5-46b1-91b6-7890302c01b3)
-![detalhes_ordem1](https://github.com/user-attachments/assets/82d2aeba-b5b5-4daa-8ed8-d39483a556ff)
-![detalhes_ordem2](https://github.com/user-attachments/assets/61c087e4-096c-4370-90c5-2e9d392f3ced)
+![login](https://github.com/user-attachments/assets/94479608-c81c-4a73-8288-b82c72aa87c2)
+![dashboard](https://github.com/user-attachments/assets/32fa720a-6167-4f3f-b261-eb03b68ac7db)
+![detalhes_ordem1](https://github.com/user-attachments/assets/23f0d60b-34af-4ee5-bc1a-466c71026be1)
+![detalhes_ordem2](https://github.com/user-attachments/assets/c80fdb17-55fb-4bb5-8da4-ee081b7d5b27)
 
 ---
 
