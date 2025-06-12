@@ -10,7 +10,6 @@
 - **C#: Linguagem utilizada para a implementação da API e backend .NET**
 - **Postgres SQL: Banco de Dados**
 
-
 ---
 
 ## 🚀 Funcionalidades
@@ -19,6 +18,15 @@
 - 📄 Vizualização de resgistros da API
 - 🧾 Listagem e manipulação das ordens de serviço
 - 🧠 Gerenciamento de estado com BLoC
+
+---
+
+## Telas do projeto
+
+![login](https://github.com/user-attachments/assets/e9432bff-2287-4777-b578-b57f398d5cdf)
+![dashboard](https://github.com/user-attachments/assets/e1b8af1f-53a5-46b1-91b6-7890302c01b3)
+![detalhes_ordem1](https://github.com/user-attachments/assets/82d2aeba-b5b5-4daa-8ed8-d39483a556ff)
+![detalhes_ordem2](https://github.com/user-attachments/assets/61c087e4-096c-4370-90c5-2e9d392f3ced)
 
 ---
 
@@ -34,8 +42,6 @@ lib/
 │   ├── services/        # Serviços (API)
 │   └── router/          # Navegação
 ```
-
----
 
 ---
 
